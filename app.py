@@ -42,4 +42,4 @@ def classifier():
 #         return f'A frase "{frase}" é positiva.'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
